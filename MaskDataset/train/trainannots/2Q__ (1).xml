@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MaskDataset</folder>
+	<filename>2Q__ (1).jpg</filename>
+	<path>/Users/mehmetekin/Downloads/MaskDataset/2Q__ (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FaceMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>97</ymin>
+			<xmax>146</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

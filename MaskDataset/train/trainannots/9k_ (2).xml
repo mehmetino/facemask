@@ -1,0 +1,38 @@
+<annotation>
+	<folder>MaskDataset</folder>
+	<filename>9k_ (2).jpg</filename>
+	<path>/Users/mehmetekin/Downloads/MaskDataset/9k_ (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FaceMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>64</ymin>
+			<xmax>111</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FaceMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>73</ymin>
+			<xmax>265</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
